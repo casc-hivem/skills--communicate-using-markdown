@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Run free, Shipoo!";
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
